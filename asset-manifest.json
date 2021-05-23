@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Vaccine-Slot-Notification/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Vaccine-Slot-Notification/static/js/main.cfe27286.chunk.js",
+    "main.js.map": "/Vaccine-Slot-Notification/static/js/main.cfe27286.chunk.js.map",
+    "runtime-main.js": "/Vaccine-Slot-Notification/static/js/runtime-main.508d3574.js",
+    "runtime-main.js.map": "/Vaccine-Slot-Notification/static/js/runtime-main.508d3574.js.map",
+    "static/js/2.b96ff985.chunk.js": "/Vaccine-Slot-Notification/static/js/2.b96ff985.chunk.js",
+    "static/js/2.b96ff985.chunk.js.map": "/Vaccine-Slot-Notification/static/js/2.b96ff985.chunk.js.map",
+    "static/js/3.35cf9792.chunk.js": "/Vaccine-Slot-Notification/static/js/3.35cf9792.chunk.js",
+    "static/js/3.35cf9792.chunk.js.map": "/Vaccine-Slot-Notification/static/js/3.35cf9792.chunk.js.map",
+    "index.html": "/Vaccine-Slot-Notification/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Vaccine-Slot-Notification/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b96ff985.chunk.js.LICENSE.txt": "/Vaccine-Slot-Notification/static/js/2.b96ff985.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.508d3574.js",
+    "static/js/2.b96ff985.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.cfe27286.chunk.js"
+  ]
+}
