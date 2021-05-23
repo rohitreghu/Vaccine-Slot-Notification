@@ -55,7 +55,15 @@ function App() {
         });
   }
 
-  return null
+  return (
+    <div>
+      Slot available for 18+ for 1st dose of vaccination at:
+
+      {centers && centers.map((center, index) => {
+       return <p key={index}>{center.name}</p>
+      })}
+    </div>
+  )
 }
 
 export default App;
