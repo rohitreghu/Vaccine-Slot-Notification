@@ -27,7 +27,7 @@ function App() {
     Axios.get(url)
       .then((response) => {
         // console.log(response.data);
-        var temp = response.data.sessions.filter((center) => center.min_age_limit === 45 && center.available_capacity_dose1 > 10);
+        var temp = response.data.sessions.filter((center) => center.min_age_limit === 18 && center.available_capacity_dose1 > 10);
         setCenters(temp);
       })
       .catch((err) => {
