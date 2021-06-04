@@ -20,7 +20,7 @@ function App() {
 
     var today = new Date()
     var date = today.getDate() + 1
-    var secondHalf = "-05-2021";
+    var secondHalf = "-06-2021";
 
     const url = firstHalf + date + secondHalf
 
